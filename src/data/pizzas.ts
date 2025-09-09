@@ -61,7 +61,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 4,
+        id: 5,
         namePizza: "Гавайская",
         price: 480,
         image: "https://via.placeholder.com/150",
@@ -73,7 +73,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 5,
+        id: 6,
         namePizza: "Барбекю",
         price: 530,
         image: "https://via.placeholder.com/150",
@@ -85,7 +85,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 6,
+        id: 7,
         namePizza: "Вегетарианская",
         price: 450,
         image: "https://via.placeholder.com/150",
@@ -97,7 +97,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 7,
+        id: 8,
         namePizza: "Мясная",
         price: 560,
         image: "https://via.placeholder.com/150",
@@ -109,7 +109,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 8,
+        id: 9,
         namePizza: "Дьябло",
         price: 520,
         image: "https://via.placeholder.com/150",
@@ -121,7 +121,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 9,
+        id: 10,
         namePizza: "С грибами",
         price: 470,
         image: "https://via.placeholder.com/150",
@@ -133,7 +133,7 @@ export const pizzas: Pizza[] = [
         ],
     },
     {
-        id: 10,
+        id: 11,
         namePizza: "С морепродуктами",
         price: 600,
         image: "https://via.placeholder.com/150",
