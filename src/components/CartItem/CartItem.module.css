@@ -1,0 +1,32 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 20px;
+
+    padding: 10px;
+}
+
+.item{
+    text-align: center;
+    width: 300px;
+}
+
+.item span{
+    color: green;
+    font-weight: 600;
+}
+
+.item button{
+    background: white;
+    color: black;
+    border: none;
+}
+
+.item button:hover{
+    transition: background .5s;
+    background: grey;
+}   
