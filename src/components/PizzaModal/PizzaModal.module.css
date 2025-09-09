@@ -1,0 +1,8 @@
+.close{
+    background: transparent;
+    border: none;
+}
+
+.close:focus{
+    outline: none;
+}
