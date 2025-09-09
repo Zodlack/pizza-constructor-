@@ -1,6 +1,6 @@
 import { Card, Image, Text, Button, Stack } from "@chakra-ui/react";
 import type { Pizza } from "../../data/pizzas";
-import classes from './Pizza.module.css';
+import classes from './PizzaCard.module.css';
 
 export interface PizzaCardProps {
     pizza: Pizza;
